@@ -1,0 +1,15 @@
+﻿# Mircea's standard .gitignore
+*.opensdf
+*.sdf
+*.suo
+*.obj
+*.bak
+*.user
+/docs
+/o
+/exe
+/app
+*.ipch
+.vs/
+
+# additional stuff for this project
